@@ -10,3 +10,5 @@ Sample website with plenty of files for demos
 kuch bhi
 
 aur bhi kuch bhi nhi
+
+copyright
